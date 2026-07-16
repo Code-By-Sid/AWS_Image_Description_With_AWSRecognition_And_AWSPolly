@@ -298,28 +298,16 @@ The Lambda execution role requires permissions for:
 ---
 
 # 📸 Sample Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae003839-8959-42a6-a324-b3b5bc80ea24" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e854bdf-ac5b-4e2a-9b1b-c79578660f9b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d80c99c-5356-46d0-9553-c9755e0388d2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0db32ef4-f443-434a-932f-602b4929efdc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05e1715c-5f8e-401d-83e2-cbb74f4833d1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08b047b5-c699-4fb4-b019-676c82d913cb" />
 
-```
-Image Name:
-dog.jpg
 
-Description:
-This image contains Dog, Grass and Tree.
-The primary object detected is Dog with 99.87% confidence.
 
-Detected Labels:
-• Dog
-• Grass
-• Tree
 
-Audio:
-▶ Play MP3
-
-Uploaded:
-16 July 2026
-```
-
----
 
 # 📄 License
 
